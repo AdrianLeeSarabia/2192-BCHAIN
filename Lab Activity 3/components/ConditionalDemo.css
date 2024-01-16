@@ -1,0 +1,16 @@
+button{
+    background-color: brown;
+    color: aliceblue;
+    border: none;
+}
+
+button:hover{
+    background-color: thistle;
+    color: blue;
+    border: none;
+}
+
+h1{
+    color: yellowgreen;
+
+}
